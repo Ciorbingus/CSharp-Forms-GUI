@@ -1,0 +1,11 @@
+A:\Coding\Templates\Temp3\Temp3\Temp3\bin\Debug\Temp3.exe.config
+A:\Coding\Templates\Temp3\Temp3\Temp3\bin\Debug\Temp3.exe
+A:\Coding\Templates\Temp3\Temp3\Temp3\bin\Debug\Temp3.pdb
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.csproj.AssemblyReference.cache
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.Properties.Resources.resources
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.csproj.GenerateResource.cache
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.csproj.CoreCompileInputs.cache
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.exe
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\Temp3.pdb
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\IMDB.Client.resources
+A:\Coding\Templates\Temp3\Temp3\Temp3\obj\Debug\IMDB.Login.resources
